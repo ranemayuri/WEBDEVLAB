@@ -1,0 +1,34 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <title>Practical 4</title>
+    <style>
+        div{
+            font-size:50px;
+            text-align:center;
+            margin-top:40px;
+            margin-left:250px;
+            margin-right:250px;
+            border:2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color:#693D3D;background-color: #e2d810;text-align: center;">
+    Myself Mayuri<br>
+    You may connect to me through the below links
+    </h1>
+    <div>
+        <a href="https://www.linkedin.com/in/mayuri-rane-48b2a3249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByTl9lusWTx%2B9oTCIYDnr%2Fw%3D%3D">Linkedin </a>
+    </div>
+    <div>
+        <a href="https://github.com/ranemayuri">Github</a>
+    </div>
+    <div>
+        <a href="mailto:mayurirane16102004@gmail.com">Gmail</a>
+    </div>
+    <div>
+        <a href="Practical3.html">webpage</a>
+    </div>
+</body>
+</html>
