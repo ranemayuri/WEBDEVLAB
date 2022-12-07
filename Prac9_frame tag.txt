@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice3</title>
+</head>
+<body>
+    <h1 align="center">Image</h1>
+    <img src="https://www.hdwallpaper.nu/wp-content/uploads/2015/06/1843513.jpg"alt="Flower Image 1"height="300"width="50%"align="top"></img><br><br>
+    <img src="https://tse1.mm.bing.net/th?id=OIP.4Vl4_7QRJNM82xIkvxo3PAHaEo&pid=Api&P=0"alt="Flower Image 2"height="200"width="30%"align="middle"></img><br><br><br>
+    <img src="https://tse2.mm.bing.net/th?id=OIP.5p6penb38wvU2_DNC9GAMgHaFj&pid=Api&P=0"alt="Flower Image 3"height="100"width="10%"align="bottom"></img><br><br><br>
+</body>
+</html>
